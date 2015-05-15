@@ -1,0 +1,115 @@
+﻿余额不足分润通知：
+http://localhost:28135/Pay/CSRoyalRefundNotify.aspx?batch_no=20150420210730648001734004&extend_param=HTMHLV&notify_id=1504202107365303305g901058&pid=14101016433691505822503727&remark=%e8%b5%b5%e6%a2%a6&result_details=dtgongying%5e14101016433691505822503727%5e0.85%5e%e9%80%80%e6%9c%ba%e7%a5%a8%e6%ac%be%3bPNR%3aHTMHLV%3b%e8%a1%8c%e7%a8%8b%3a%e6%a1%82%e6%9e%97-%e4%b8%8a%e6%b5%b7%5eSELLER_ACCOUNT_BALANCE_NOT_ENOUGH%7cbangbang%5e14101016433691505822503727%5e12.15%5e%e9%80%80%e6%9c%ba%e7%a5%a8%e6%ac%be%3bPNR%3aHTMHLV%3b%e8%a1%8c%e7%a8%8b%3a%e6%a1%82%e6%9e%97-%e4%b8%8a%e6%b5%b7%5eTRADE_SUCCESS&trade_no=1504181653200540454580589878&sign=b8051590dac32d7793fe4247997d944f&sign_type=MD5
+
+http://localhost:1646/517WalletRefund/CSReckRefundNotify.aspx?batch_no=20150420221650271001690004&extend_param=HTMHLV&notify_id=1504202216514525392g901058&pid=14101016433691505822503727&remark=%e8%b5%b5%e6%a2%a6&result_details=dtgongying%5e14101016433691505822503727%5e0.85%5e%e9%80%80%e5%88%86%e6%b6%a6%5eTRADE_SUCCESS&trade_no=1504181653200540454580589878&sign=592f6adcf685a6f5022fb404bbe603cd&sign_type=MD5
+
+
+http://localhost:28135/Pay/CSRoyalRefundNotify.aspx
+?batch_no=20150422155213171058231004&extend_param=HTMHLV&notify_id=1504221552221881146g901058&pid=14101016433691505822503727&remark=%e8%b5%b5%e6%a2%a6&result_details=dtgongying%5e14101016433691505822503727%5e0.87%5e%e9%80%80%e6%9c%ba%e7%a5%a8%e6%ac%be%3bPNR%3aHTMHLV%3b%e8%a1%8c%e7%a8%8b%3a%e6%a1%82%e6%9e%97-%e4%b8%8a%e6%b5%b7%5eSELLER_ACCOUNT_BALANCE_NOT_ENOUGH%7cbangbang%5e14101016433691505822503727%5e17.13%5e%e9%80%80%e6%9c%ba%e7%a5%a8%e6%ac%be%3bPNR%3aHTMHLV%3b%e8%a1%8c%e7%a8%8b%3a%e6%a1%82%e6%9e%97-%e4%b8%8a%e6%b5%b7%5eTRADE_SUCCESS&trade_no=1504201151060280463180589878&sign=77de2130ce613da439a9bceb5b78cf09&sign_type=MD5
+
+
+http://localhost:1646/517WalletRefund/CSReckRefundNotify.aspx?
+http://localhost:1646/517WalletRefund/CSReckRefundNotify.aspx?
+
+http://118.114.245.80:43811/517WalletRefund/CSRoyalRefundNotify.aspx
+batch_no=20150424154720364058411004&extend_param=&notify_id=1504241547246079596g901058&pid=14101016433691505822503727&remark=H0MZFB%5e%u5218%u897f%u5317%5e%5e%5e1111111111%5e1111111111&result_details=dtgongying%5e14101016433691505822503727%5e30.73%5eH0MZFB%5eSELLER_ACCOUNT_BALANCE_NOT_ENOUGH%7cbangbang%5e14101016433691505822503727%5e7.17%5eH0MZFB%5eSELLER_ACCOUNT_BALANCE_NOT_ENOUGH&trade_no=1504232046279780477730589878&sign=a703d5b7cd551098c9a29cc50cbfd360&sign_type=MD5
+
+---------------------------
+来自网页的消息
+---------------------------
+收集变更文件发生异常！  ghongqin15042310140212515
+---------------------------
+确定   
+---------------------------
+
+
+https://sy.517na.com
+
+http://zfcs.jk.517na.com/PubPayService.ashx
+
+http://localhost:28135/Pay/CSRoyalRefundNotify.aspx
+?batch_no=20150423113532925058012004&extend_param=H0PZPB&notify_id=1504231135393838887g901058&pid=14101016433691505822503727&remark=%e5%ba%b7%e5%8c%97%2c%e5%8f%af%e5%8d%97&result_details=dtgongying%5e14101016433691505822503727%5e61.46%5e%e9%80%80%e6%9c%ba%e7%a5%a8%e6%ac%be%3bPNR%3aH0PZPB%3b%e8%a1%8c%e7%a8%8b%3a%e6%a1%82%e6%9e%97-%e4%b8%8a%e6%b5%b7%5eSELLER_ACCOUNT_BALANCE_NOT_ENOUGH%7cfengnan%5e14101016433691505822503727%5e30.20%5e%e9%80%80%e6%9c%ba%e7%a5%a8%e6%ac%be%3bPNR%3aH0PZPB%3b%e8%a1%8c%e7%a8%8b%3a%e6%a1%82%e6%9e%97-%e4%b8%8a%e6%b5%b7%5eTRADE_SUCCESS%7cbangbang%5e14101016433691505822503727%5e14.34%5e%e9%80%80%e6%9c%ba%e7%a5%a8%e6%ac%be%3bPNR%3aH0PZPB%3b%e8%a1%8c%e7%a8%8b%3a%e6%a1%82%e6%9e%97-%e4%b8%8a%e6%b5%b7%5eSELLER_ACCOUNT_BALANCE_NOT_ENOUGH&trade_no=1504221713234710483860589878&sign=25bfd3611c52f7ecacd376e06b89b1e7&sign_type=MD5
+
+
+
+
+
+
+
+
+
+
+{"v":"1.0","a":"refund_royalty_query","at":"1","d":{"business_id":"1502101843301855000004","out_trade_no":"150304204835001928","refund_order_id":"150304204835001928"},"sign_type":"MD5","sign":"8305e2a700be2e3f628defcebe2da38b"}
+
+
+{
+    "v": "1.0",
+    "a": "refund_royalty_query",
+    "at": "5",
+    "d": {
+        "business_id": "1502101843301855000004",
+        "out_trade_no": "150304204835001928",
+        "refund_order_id": "150304204835001928"
+    },
+    "sign_type": "MD5",
+    "sign": "8305e2a700be2e3f628defcebe2da38b"
+}
+
+eyJyIjoiMCIsImVyciI6IlBBWTk5OTkiLCJlcnJfbXNnIjoi5pyq55+l6ZSZ6K+vIiwiZCI6e319
+
+{"r":"0","err":"PAY9999","err_msg":"未知错误","d":{}}
+
+
+
+http://localhost:28136/Pay/CSRoyalRefundNotify.aspx?batch_no=20150420093626105058580004&extend_param=HTMHLV&notify_id=1504200936330013972g901058&pid=14101016433691505822503727&remark=%e8%b5%b5%e6%a2%a6&result_details=dtgongying%5e14101016433691505822503727%5e0.83%5e%e9%80%80%e6%9c%ba%e7%a5%a8%e6%ac%be%3bPNR%3aHTMHLV%3b%e8%a1%8c%e7%a8%8b%3a%e6%a1%82%e6%9e%97-%e4%b8%8a%e6%b5%b7%5eSELLER_ACCOUNT_BALANCE_NOT_ENOUGH%7cbangbang%5e14101016433691505822503727%5e7.17%5e%e9%80%80%e6%9c%ba%e7%a5%a8%e6%ac%be%3bPNR%3aHTMHLV%3b%e8%a1%8c%e7%a8%8b%3a%e6%a1%82%e6%9e%97-%e4%b8%8a%e6%b5%b7%5eTRADE_SUCCESS&trade_no=1504181435033650453390589878&sign=e2d7c0e8418f79a673d79d704bbdba98&sign_type=MD5
+http://localhost:28136/Pay/CSRefundBuyerNotify.aspxbatch_no=20150420215335254001658004&notify_id=1504202153372539492g901058&pid=14101016433691505822503727&result_details=1504181653200540454580589878%5e14101016433691505822503727%5efengnannan%5e13.00%5e%5e%5eSUCCESS&sign=ef83f9e612e620e81a3ff4b55195895e&sign_type=MD5
+
+
+batch_no=20150417093918989058404004
+extend_param=%E6%89%A9%E5%B1%95
+notify_id=1504170939229504658g901058
+pid=14101016433691505822503727
+remark=%E5%A4%87%E6%B3%A8
+result_details=huaiyicg%5e14101016433691505822503727%5e0.10%5ereamrk%5eTRADE_SUCCESS%7ccaigoushang%5e14101016433691505822503727%5e0.10%5ereamrk2%5eTRADE_SUCCESS
+trade_no=1504170907096860415500589030
+sign=ac5d97690fd4d4d0ed046027cb0d186c
+sign_type=MD5
+
+
+192.168.1.93
+
+1502101843301855000004|3714709D0C0819A9D1B759332877853E
+1504101643591234000004|3714709D0C0819A9D1B759332877853E
+
+
+{"notify_time":"2015-04-17 14:39:16","notify_id":"1504170939229504658g901058","trade_status":"T","refund_order_id":"1504111903503165600000012","batch_no":"20150417093918989058404004","pay_order_id":"15041700001213292315","total_fee":"0.20","royal_info":"T^huaiyicg^14101016433691505822503727^0.10^reamrk^|T^caigoushang^14101016433691505822503727^0.10^reamrk2^","remark":"备注","extend_param":"扩展","error_code":"","error_msg":"","sign":"4B4439FAFF0145CA5324C70B9A1096CB","sign_type":"MD5"}
+{
+    "notify_time": "2015-04-17 14:39:16",
+    "notify_id": "1504170939229504658g901058",
+    "trade_status": "T",
+    "refund_order_id": "1504111903503165600000012",
+    "batch_no": "20150417093918989058404004",
+    "pay_order_id": "15041700001213292315",
+    "total_fee": "0.20",
+    "royal_info": "T^huaiyicg^14101016433691505822503727^0.10^reamrk^|T^caigoushang^14101016433691505822503727^0.10^reamrk2^",
+    "remark": "备注",
+    "extend_param": "扩展",
+    "error_code": "",
+    "error_msg": "",
+    "sign": "4B4439FAFF0145CA5324C70B9A1096CB",
+    "sign_type": "MD5"
+}
+
+
+
+{"v":"1.0","a":"refund_royalty_query","at":"5","d":{"business_id":"1504101643591234000004","out_trade_no":"150417105342001903","refund_order_id":"150418090832001894"},"sign_type":"MD5","sign":"7187d0cf9e5042e40f95f5374e1605b3"}
+{"r":"0","err":"PAY9999","err_msg":"未知错误","d":{}}
+
+
+
+T^dtgongying^14101016433691505822503727^0.83^退机票款;PNR:HTMHLV;行程:桂林-上海^|T^bangbang^14101016433691505822503727^7.17^退机票款;PNR:HTMHLV;行程:桂林-上海^
+
+http://localhost:28135/Pay/CSRefundBuyerNotify.aspx?batch_no=20150420215335254001658004&notify_id=1504202153372539492g901058&pid=14101016433691505822503727&result_details=1504181653200540454580589878%5e14101016433691505822503727%5efengnannan%5e13.00%5e%5e%5eSUCCESS&sign=ef83f9e612e620e81a3ff4b55195895e&sign_type=MD5
+
+
+{"v":"1.0","a":null,"at":"5","d":{"business_id":"1504101643591234000004","extend_param":"HTMHLV     ","is_third_success":"1","notify_url":"http://192.168.1.62:1952/Pay/CSRefundNotify.aspx","outba_check_orderid":"","pay_order_id":"150417105342001903","refund_money":"8.00","refund_order_id":"150418090832001894","remark":"赵梦"},"sign_type":"MD5","sign":"5ccd0fc5751a599cdd58e2b7b217470b"}
